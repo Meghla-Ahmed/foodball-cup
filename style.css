@@ -48,8 +48,6 @@ h1{
     color: #fff;
     width: 485px;
     height: 230px;
-    margin-top: 207px;
-    font-style: normal;
     font-weight: bold;
     font-size: 64px;
 }
@@ -148,7 +146,6 @@ h1{
     }
     .banner-img img{
         width: 556.01px;
-        margin: 120px;
     }
     .card-container{
         display: grid;
